@@ -1,0 +1,23 @@
+{
+  "name": "HACKATHON",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Shopping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepasingh27/product_search_automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepasingh27/product_search_automation/issues"
+  },
+  "homepage": "https://github.com/deepasingh27/product_search_automation#readme",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
